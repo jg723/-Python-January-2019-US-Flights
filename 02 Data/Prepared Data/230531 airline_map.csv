@@ -1,0 +1,294 @@
+,DESTINATION,DES_CITY,DES_STATE
+0,HNL,Honolulu,"Oahu, HI"
+1,LAX,Los Angeles,CA 
+4,CRP,Corpus Christi,TX 
+6,HOU,Houston,TX 
+7,JFK,New York,NY 
+12,SEA,Seattle,WA 
+14,GUM,Tamuning,Guam
+17,FLL,Fort Lauderdale,FL 
+28,HRL,Harlingen,TX 
+34,ORD,Chicago,IL 
+142,BWI,Baltimore,MD 
+212,MHT,Manchester,NH 
+271,MCO,Orlando,FL 
+278,AUS,Austin,TX 
+291,DCA,Washington DC ,DC 
+292,DAL,Dallas,TX 
+297,LAS,Las Vegas,NV 
+302,IAH,Houston,TX 
+316,MAF,Midland,TX 
+333,LIT,Little Rock,AR 
+343,PHX,Phoenix,AZ 
+485,MDW,Chicago,IL 
+547,CLE,Cleveland,OH 
+604,OGG,"Kahului, Maui",HI
+607,STL,St. Louis,MO 
+631,KOA,Kailua-Kona,HI
+696,BOS,Boston,MA 
+779,BUF,Buffalo,NY 
+783,AMA,Amarillo,TX 
+793,ELP,El Paso,TX 
+796,SFO,San Francisco,CA 
+932,TPA,Tampa,FL 
+1061,MSY,New Orleans,LA 
+1069,SDF,Louisville,KY
+1070,BHM,Birmingham,AL 
+1074,PVD,Providence,RI 
+1092,PHL,Philadelphia,PA 
+1296,DEN,Denver,CO 
+1467,SJU,San Juan,Puerto Rico
+1468,SAT,San Antonio,TX 
+1469,ABQ,Albuquerque,NM 
+1476,DFW,Dallas,TX 
+1551,MCI,Kansas City,MO 
+1622,SLC,Salt Lake City,UT 
+1995,SJC,San Jose,CA 
+2007,PDX,Portland,OR 
+2091,SAN,San Diego,CA 
+2109,EWR,Newark,NJ 
+2110,ATL,Atlanta,GA 
+2131,IND,Indianapolis,IN 
+2335,ALB,Albany,NY 
+2539,OAK,Oakland,CA 
+2668,MIA,Miami,FL 
+3019,BNA,Nashville,TN 
+3037,BDL,Hartford,CT 
+3164,CLT,Charlotte,NC 
+3231,IAD,Washington DC ,DC 
+3487,OKC,Oklahoma City,OK 
+3640,ROC,Rochester,NY 
+3848,ISP,Islip,NY 
+4329,ONT,Ontario,CA 
+4490,LBB,Lubbock,TX 
+4739,PBI,West Palm Beach,FL 
+5001,LGA,New York,NY 
+5162,CMH,Columbus,OH 
+5295,DTW,Detroit,MI 
+5443,JAN,Jackson,MS 
+5558,ECP,Panama City,FL
+5566,SMF,Sacramento,CA 
+5571,TUL,Tulsa,OK 
+6083,SYR,Syracuse,NY 
+6376,RDU,Raleigh,NC 
+6605,MKE,Milwaukee,WI 
+7302,PIT,Pittsburgh,PA 
+7746,SNA,Orange County,CA 
+8265,RNO,Reno,NV 
+9735,MSP,Minneapolis,MN 
+10702,ANC,Anchorage,AK 
+10962,LIH,Lihue,"Kauai, HI"
+10963,BET,Bethel,AK 
+12490,ADQ,Kodiak,AK 
+12619,BOI,Boise,ID 
+12771,JAX,Jacksonville,FL 
+12775,BTV,Burlington,VT 
+13307,SCC,Prudhoe Bay,AK
+13340,BRW,Barrow,AK
+13510,FAI,Fairbanks,AK 
+15084,GEG,Spokane,WA 
+15360,KTN,Ketchikan,AK 
+15553,YAK,Yakutat,AK 
+15555,CDV,Cordova,AK 
+15578,JNU,Juneau,AK 
+15618,RSW,Fort Myers,FL 
+15870,SIT,Sitka,AK 
+16336,WRG,Wrangell,AK 
+16348,PSG,Petersburg,AK
+22402,ITO,Hilo,Hawaii 
+25021,RIC,Richmond,VA 
+26681,OMA,Omaha,NE 
+27008,GRR,Grand Rapids,MI 
+27122,ICT,Wichita,KS 
+28082,TUS,Tucson,AZ 
+29798,BUR,Burbank,CA 
+31906,OME,Nome,AK 
+31912,OTZ,Kotzebue,AK 
+33725,ADK,Adak,AK
+35199,PSP,Palm Springs,CA 
+39155,DAY,Dayton,OH 
+41038,CAK,Akron,OH 
+41678,LGB,Long Beach,CA 
+42696,MDT,Harrisburg,PA 
+43097,BZN,Bozeman,MT 
+44609,ORF,Norfolk,VA 
+45712,DSM,Des Moines,IA 
+46629,MFE,McAllen,TX 
+49371,FNT,Flint,MI 
+52291,JAC,Jackson Hole,WY 
+57512,PHF,Newport News,VA 
+59347,EGE,Vail,CO 
+59496,BQN,Aguadilla,Puerto Rico
+65451,TYS,Knoxville,TN 
+65638,BKG,Hollister,MO 
+66109,SRQ,Sarasota,FL 
+67040,TLH,Tallahassee,FL 
+67600,GUC,Gunnison,CO 
+67900,FSD,Sioux Falls,SD 
+69215,MTJ,Montrose,CO 
+74078,SAV,Savannah,GA 
+76012,CVG,Cincinnati,OH 
+79445,PWM,Portland,ME 
+80027,PNS,Pensacola,FL 
+83267,STX,Christiansted,St. Croix
+88054,PIE,St. Petersburg,FL 
+88201,BIL,Billings,MT 
+97209,COS,Colorado Springs,CO 
+101239,MEM,Memphis,TN 
+106248,HPN,White Plains,NY 
+106678,BMI,Bloomington,IL 
+107076,SWF,Newburgh,NY 
+108465,STT,Charlotte Amalie,St. Thomas
+118908,BLI,Bellingham,WA 
+119330,MSN,Madison,WI 
+139246,PSE,Ponce,Puerto Rico
+141199,HSV,Huntsville,AL 
+157136,EYW,Key West,FL 
+158449,ILM,Wilmington,NC 
+168943,ACY,Atlantic City,NJ 
+170322,MYR,Myrtle Beach,SC 
+172189,CHS,Charleston,SC 
+173581,CAE,Columbia,SC 
+174311,DAB,Daytona Beach,FL 
+177994,XNA,Fayetteville,AR 
+178309,ABE,Allentown,PA 
+183164,MLB,Melbourne,FL 
+193042,GSO,Greensboro,NC 
+194908,CRW,Charleston,WV 
+198962,GSP,Greenville,SC 
+200826,MLI,Moline,IL 
+204494,HDN,Hayden,CO
+207233,AVL,Asheville,NC 
+208470,LEX,Lexington,KY 
+218547,FAT,Fresno,CA 
+243453,UTM,Tunica,MS
+245231,GPT,Gulfport,MS 
+288928,BTR,Baton Rouge,LA 
+294283,LRD,Laredo,TX 
+295618,SHV,Shreveport,LA 
+304208,FAR,Fargo,ND 
+310103,AEX,Alexandria,LA 
+310585,GRB,Green Bay,WI 
+310651,LFT,Lafayette,LA 
+311261,BRO,Brownsville,TX 
+322466,LCH,Lake Charles,LA 
+337452,FAY,Fayetteville,NC 
+341469,BFL,Bakersfield,CA 
+345806,MOB,Mobile,AL 
+346070,ROW,Roswell,NM 
+346539,PIA,Peoria,IL 
+346948,ABI,Abilene,TX 
+347453,EVV,Evansville,IN 
+347857,SBA,Santa Barbara,CA 
+348497,MHK,Manhattan,KS 
+348499,GRK,Killeen,TX 
+350559,VPS,Fort Walton Beach,FL 
+350775,SBP,San Luis Obispo,CA 
+351463,FWA,Fort Wayne,IN 
+352390,MGM,Montgomery,AL 
+353032,SGF,Springfield,MO 
+353372,RAP,Rapid City,SD 
+353720,MRY,Monterey,CA 
+354525,FSM,Fort Smith,AR 
+354620,TYR,Tyler,TX 
+355986,TXK,Texarkana,AR 
+358494,ACT,Waco,TX 
+358509,SPS,Wichita Falls,TX 
+359919,CID,Cedar Rapids,IA 
+360644,FLG,Flagstaff,AZ 
+360880,YUM,Yuma,AZ 
+361650,SAF,Santa Fe,NM 
+364353,MLU,Monroe,LA 
+366545,DRO,Durango,CO 
+367330,TEX,Telluride,CO
+367438,GJT,Grand Junction,CO 
+371565,CMI,Champaign,IL 
+372629,BIS,Bismarck,ND 
+374957,CSG,Columbus,GA 
+375993,AGS,Augusta,GA 
+376490,CYS,Cheyenne,WY 
+386733,CHA,Chattanooga,TN 
+388638,CLL,College Station,TX 
+390552,SJT,San Angelo,TX 
+390574,GGG,Longview,TX 
+398458,RST,Rochester,MN 
+398567,LAN,Lansing,MI 
+398937,ATW,Appleton,WI 
+400246,DLH,Duluth,MN 
+400664,AZO,Kalamazoo,MI 
+400698,MBS,Saginaw,MI 
+401370,MOT,Minot,ND 
+401813,MQT,Marquette,MI 
+402651,ELM,Elmira,NY 
+402737,SBN,South Bend,IN 
+403694,COU,Columbia,MO 
+404450,ABR,Aberdeen,SD 
+405120,SCE,State College,PA 
+405452,AVP,Wilkes-Barre,PA 
+405680,PLN,Pellston,MI 
+406723,TVC,Traverse City,MI 
+407521,LSE,La Crosse,WI 
+407603,BGR,Bangor,ME 
+407733,TRI,Tri-City Airport,TN 
+409249,GFK,Grand Forks,ND 
+412011,ITH,Ithaca,NY 
+413425,ERI,Erie,PA 
+413913,SPI,Springfield,IL 
+417568,ROA,Roanoke,VA 
+420481,DBQ,Dubuque,IA 
+421948,BGM,Binghamton,NY 
+431162,GTR,Columbus,MS 
+432206,LNK,Lincoln,NE 
+432606,LWB,Greenbrier,WV
+434883,TOL,Toledo,OH 
+438105,FCA,Kalispell,MT 
+438547,CPR,Casper,WY 
+438597,LWS,Lewiston,ID 
+440276,PSC,Pasco,WA 
+442405,MSO,Missoula,MT 
+442522,IDA,Idaho Falls,ID 
+443294,RDM,Redmond,OR 
+443366,GTF,Great Falls,MT 
+447347,BTM,Butte,MT 
+448419,EUG,Eugene,OR 
+449952,MFR,Medford,OR 
+450645,HLN,Helena,MT 
+455097,ABY,Albany,GA 
+455164,FLO,Florence,SC 
+455780,MEI,Meridian,MS 
+456372,BQK,Brunswick,GA 
+456659,OAJ,Jacksonville,NC 
+457948,VLD,Valdosta,GA 
+458716,CHO,Charlottesville,VA 
+459573,GNV,Gainesville,FL 
+459760,EWN,New Bern,NC 
+460020,DHN,Dothan,AL 
+467950,LYH,Lynchburg,VA 
+482363,ASE,Aspen,CO 
+482689,OTH,North Bend,OR 
+484457,ACV,Eureka,CA
+485658,PAH,Paducah,KY 
+485806,GCC,Gillette,WY 
+485895,IPL,El Centro,CA 
+486124,IYK,Inyokern,CA 
+488419,HTS,Huntington,WV 
+491398,CWA,Wausau,WI 
+491719,RKS,Rock Springs,WY 
+493291,CMX,Hancock,MI 
+496188,SMX,Santa Maria,CA 
+497701,EAU,Eau Claire,WI 
+501280,CEC,Crescent City,CA 
+501367,MMH,Mammoth Lakes,CA
+501533,CIC,Chico,CA 
+501798,COD,Cody,WY 
+501887,LMT,Klamath Falls,OR 
+503419,CLD,Carlsbad,CA 
+504744,MKG,Muskegon,MI 
+509731,RDD,Redding,CA 
+512730,MOD,Modesto,CA 
+537431,CDC,Cedar City,UT
+537542,EKO,Elko,NV 
+537772,PIH,Pocatello,ID 
+538026,SGU,St. George,UT 
+538350,SUN,Sun Valley,ID 
+538939,TWF,Twin Falls,ID 

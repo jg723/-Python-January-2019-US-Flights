@@ -1,0 +1,359 @@
+﻿ORIGIN,DEST,CITY,STATE_OR_REGION,TIME_ZONE,GMT
+ADK,ADK,Adak,AK,Hawaii-Aleutian Standard Time,10
+ADQ,ADQ,Kodiak,AK,Alaska Standard Time,9
+ANC,ANC,Anchorage,AK,Alaska Standard Time,9
+BET,BET,Bethel,AK,Alaska Standard Time,9
+BRW,BRW,Barrow,AK,Alaska Standard Time,9
+CDV,CDV,Cordova,AK,Alaska Standard Time,9
+FAI,FAI,Fairbanks,AK,Alaska Standard Time,9
+JNU,JNU,Juneau,AK,Alaska Standard Time,9
+KTN,KTN,Ketchikan,AK,Alaska Standard Time,9
+OME,OME,Nome,AK,Alaska Standard Time,9
+OTZ,OTZ,Kotzebue,AK,Alaska Standard Time,9
+PSG,PSG,Petersburg,AK,Alaska Standard Time,9
+SCC,SCC,Prudhoe Bay,AK,Alaska Standard Time,9
+SIT,SIT,Sitka,AK,Alaska Standard Time,9
+WRG,WRG,Wrangell,AK,Alaska Standard Time,9
+YAK,YAK,Yakutat,AK,Alaska Standard Time,9
+BHM,BHM,Birmingham,AL,Central Standard Time,6
+DHN,DHN,Dothan,AL,Central Standard Time,6
+HSV,HSV,Huntsville,AL,Central Standard Time,6
+MGM,MGM,Montgomery,AL,Central Standard Time,6
+MOB,MOB,Mobile,AL,Central Standard Time,6
+FSM,FSM,Fort Smith,AR,Central Standard Time,6
+LIT,LIT,Little Rock,AR,Central Standard Time,6
+TXK,TXK,Texarkana,AR,Central Standard Time,6
+XNA,XNA,Fayetteville,AR,Central Standard Time,6
+AZA,AZA,Mesa,AZ,Mountain Standard Time,7
+FLG,FLG,Flagstaff,AZ,Mountain Standard Time,7
+PHX,PHX,Phoenix,AZ,Mountain Standard Time,7
+PRC,PRC,Prescott,AZ,Mountain Standard Time,7
+TUS,TUS,Tucson,AZ,Mountain Standard Time,7
+YUM,YUM,Yuma,AZ,Mountain Standard Time,7
+ACV,ACV,Eureka,CA,Pacific Standard Time,8
+BFL,BFL,Bakersfield,CA,Pacific Standard Time,8
+BUR,BUR,Burbank,CA,Pacific Standard Time,8
+CEC,CEC,Crescent City,CA,Pacific Standard Time,8
+CIC,CIC,Chico,CA,Pacific Standard Time,8
+CLD,CLD,Carlsbad,CA,Pacific Standard Time,8
+FAT,FAT,Fresno,CA,Pacific Standard Time,8
+IPL,IPL,El Centro,CA,Pacific Standard Time,8
+IYK,IYK,Inyokern,CA,Pacific Standard Time,8
+LAX,LAX,Los Angeles,CA,Pacific Standard Time,8
+LGB,LGB,Long Beach,CA,Pacific Standard Time,8
+MMH,MMH,Mammoth Lakes,CA,Pacific Standard Time,8
+MOD,MOD,Modesto,CA,Pacific Standard Time,8
+MRY,MRY,Monterey,CA,Pacific Standard Time,8
+OAK,OAK,Oakland,CA,Pacific Standard Time,8
+ONT,ONT,Ontario,CA,Pacific Standard Time,8
+PSP,PSP,Palm Springs,CA,Pacific Standard Time,8
+RDD,RDD,Redding,CA,Pacific Standard Time,8
+SAN,SAN,San Diego,CA,Pacific Standard Time,8
+SBA,SBA,Santa Barbara,CA,Pacific Standard Time,8
+SBP,SBP,San Luis Obispo,CA,Pacific Standard Time,8
+SCK,SCK,Stockton,CA,Pacific Standard Time,8
+SFO,SFO,San Francisco,CA,Pacific Standard Time,8
+SJC,SJC,San Jose,CA,Pacific Standard Time,8
+SMF,SMF,Sacramento,CA,Pacific Standard Time,8
+SMX,SMX,Santa Maria,CA,Pacific Standard Time,8
+SNA,SNA,Orange County,CA,Pacific Standard Time,8
+STS,STS,Santa Rosa,CA,Pacific Standard Time,8
+ASE,ASE,Aspen,CO,Mountain Standard Time,7
+COS,COS,Colorado Springs,CO,Mountain Standard Time,7
+DEN,DEN,Denver,CO,Mountain Standard Time,7
+DRO,DRO,Durango,CO,Mountain Standard Time,7
+EGE,EGE,Vail,CO,Mountain Standard Time,7
+GJT,GJT,Grand Junction,CO,Mountain Standard Time,7
+GUC,GUC,Gunnison,CO,Mountain Standard Time,7
+HDN,HDN,Hayden,CO,Mountain Standard Time,7
+MTJ,MTJ,Montrose,CO,Mountain Standard Time,7
+PUB,PUB,Pueblo,CO,Mountain Standard Time,7
+TEX,TEX,Telluride,CO,Mountain Standard Time,7
+BDL,BDL,Hartford,CT,Eastern Standard Time,5
+HVN,HVN,New Haven,CT,Eastern Standard Time,5
+DCA,DCA,Washington DC ,DC,Eastern Standard Time,5
+IAD,IAD,Washington DC ,DC,Eastern Standard Time,5
+DAB,DAB,Daytona Beach,FL,Eastern Standard Time,5
+ECP,ECP,Panama City,FL,Central Standard Time,6
+EYW,EYW,Key West,FL,Eastern Standard Time,5
+FLL,FLL,Fort Lauderdale,FL,Eastern Standard Time,5
+GNV,GNV,Gainesville,FL,Eastern Standard Time,5
+JAX,JAX,Jacksonville,FL,Eastern Standard Time,5
+MCO,MCO,Orlando,FL,Eastern Standard Time,5
+MIA,MIA,Miami,FL,Eastern Standard Time,5
+MLB,MLB,Melbourne,FL,Eastern Standard Time,5
+PBI,PBI,West Palm Beach,FL,Eastern Standard Time,5
+PGD,PGD,Punta Gorda,FL,Eastern Standard Time,5
+PIE,PIE,St. Petersburg,FL,Eastern Standard Time,5
+PNS,PNS,Pensacola,FL,Central Standard Time,6
+RSW,RSW,Fort Myers,FL,Eastern Standard Time,5
+SFB,SFB,Sanford,FL,Eastern Standard Time,5
+SRQ,SRQ,Sarasota,FL,Eastern Standard Time,5
+TLH,TLH,Tallahassee,FL,Eastern Standard Time,5
+TPA,TPA,Tampa,FL,Eastern Standard Time,5
+VPS,VPS,Fort Walton Beach,FL,Central Standard Time,6
+ABY,ABY,Albany,GA,Eastern Standard Time,5
+AGS,AGS,Augusta,GA,Eastern Standard Time,5
+ATL,ATL,Atlanta,GA,Eastern Standard Time,5
+BQK,BQK,Brunswick,GA,Eastern Standard Time,5
+CSG,CSG,Columbus,GA,Eastern Standard Time,5
+SAV,SAV,Savannah,GA,Eastern Standard Time,5
+VLD,VLD,Valdosta,GA,Eastern Standard Time,5
+GUM,GUM,Tamuning,Guam,Chamorro Standard Time,10
+ITO,ITO,Hilo,Hawaii,Hawaii-Aleutian Standard Time,10
+KOA,KOA,Kailua-Kona,HI,Hawaii-Aleutian Standard Time,10
+OGG,OGG,"Kahului, Maui",HI,Hawaii-Aleutian Standard Time,10
+ALO,ALO,Waterloo,IA,Central Standard Time,6
+CID,CID,Cedar Rapids,IA,Central Standard Time,6
+DBQ,DBQ,Dubuque,IA,Central Standard Time,6
+DSM,DSM,Des Moines,IA,Central Standard Time,6
+SUX,SUX,Sioux City,IA,Central Standard Time,6
+BOI,BOI,Boise,ID,Mountain Standard Time,7
+IDA,IDA,Idaho Falls,ID,Mountain Standard Time,7
+LWS,LWS,Lewiston,ID,Pacific Standard Time,8
+PIH,PIH,Pocatello,ID,Mountain Standard Time,7
+SUN,SUN,Sun Valley,ID,Mountain Standard Time,7
+TWF,TWF,Twin Falls,ID,Mountain Standard Time,7
+BLV,BLV,Mascoutah,IL,Central Standard Time,6
+BMI,BMI,Bloomington,IL,Central Standard Time,6
+CMI,CMI,Champaign,IL,Central Standard Time,6
+MDW,MDW,Chicago,IL,Central Standard Time,6
+MLI,MLI,Moline,IL,Central Standard Time,6
+ORD,ORD,Chicago,IL,Central Standard Time,6
+ORD,ORD,Chicago,IL,Central Standard Time,6
+PIA,PIA,Peoria,IL,Central Standard Time,6
+RFD,RFD,Rockford,IL,Central Standard Time,6
+SPI,SPI,Springfield,IL,Central Standard Time,6
+UIN,UIN,Quincy,IL,Central Standard Time,6
+EVV,EVV,Evansville,IN,Central Standard Time,6
+FWA,FWA,Fort Wayne,IN,Eastern Standard Time,5
+IND,IND,Indianapolis,IN,Eastern Standard Time,5
+SBN,SBN,South Bend,IN,Eastern Standard Time,5
+LIH,LIH,Lihue,"Kauai, HI",Hawaii-Aleutian Standard Time,10
+GCK,GCK,Garden City,KS,Central Standard Time,6
+HYS,HYS,Hays,KS,Central Standard Time,6
+ICT,ICT,Wichita,KS,Central Standard Time,6
+LBL,LBL,Liberal,KS,Central Standard Time,6
+MHK,MHK,Manhattan,KS,Central Standard Time,6
+SLN,SLN,Salina,KS,Central Standard Time,6
+LEX,LEX,Lexington,KY,Eastern Standard Time,5
+OWB,OWB,Owensboro,KY,Central Standard Time,6
+PAH,PAH,Paducah,KY,Central Standard Time,6
+SDF,SDF,Louisville,KY,Eastern Standard Time,5
+AEX,AEX,Alexandria,LA,Central Standard Time,6
+BTR,BTR,Baton Rouge,LA,Central Standard Time,6
+LCH,LCH,Lake Charles,LA,Central Standard Time,6
+LFT,LFT,Lafayette,LA,Central Standard Time,6
+MLU,MLU,Monroe,LA,Central Standard Time,6
+MSY,MSY,New Orleans,LA,Central Standard Time,6
+SHV,SHV,Shreveport,LA,Central Standard Time,6
+BOS,BOS,Boston,MA,Eastern Standard Time,5
+ORH,ORH,Worcester,MA,Eastern Standard Time,5
+BWI,BWI,Baltimore,MD,Eastern Standard Time,5
+HGR,HGR,Hagerstown,MD,Eastern Standard Time,5
+BGR,BGR,Bangor,ME,Eastern Standard Time,5
+PWM,PWM,Portland,ME,Eastern Standard Time,5
+APN,APN,Alpena County,MI,Eastern Standard Time,5
+AZO,AZO,Kalamazoo,MI,Eastern Standard Time,5
+CIU,CIU,Kincheloe,MI,Eastern Standard Time,5
+CMX,CMX,Hancock,MI,Eastern Standard Time,5
+DTW,DTW,Detroit,MI,Eastern Standard Time,5
+ESC,ESC,Escanaba,MI,Eastern Standard Time,5
+FNT,FNT,Flint,MI,Eastern Standard Time,5
+GRR,GRR,Grand Rapids,MI,Eastern Standard Time,5
+IMT,IMT,Kingsford,MI,Central Standard Time,6
+LAN,LAN,Lansing,MI,Eastern Standard Time,5
+MBS,MBS,Saginaw,MI,Eastern Standard Time,5
+MKG,MKG,Muskegon,MI,Eastern Standard Time,5
+MQT,MQT,Marquette,MI,Eastern Standard Time,5
+PLN,PLN,Pellston,MI,Eastern Standard Time,5
+TVC,TVC,Traverse City,MI,Eastern Standard Time,5
+BJI,BJI,Bemidji,MN,Central Standard Time,6
+BRD,BRD,Brainerd,MN,Central Standard Time,6
+DLH,DLH,Duluth,MN,Central Standard Time,6
+HIB,HIB,Hibbing,MN,Central Standard Time,6
+INL,INL,International Falls,MN,Central Standard Time,6
+MSP,MSP,Minneapolis,MN,Central Standard Time,6
+RST,RST,Rochester,MN,Central Standard Time,6
+STC,STC,St Cloud,MN,Central Standard Time,6
+BKG,BKG,Hollister,MO,Central Standard Time,6
+CGI,CGI,Girardeau,MO,Central Standard Time,6
+COU,COU,Columbia,MO,Central Standard Time,6
+JLN,JLN,Joplin,MO,Central Standard Time,6
+MCI,MCI,Kansas City,MO,Central Standard Time,6
+SGF,SGF,Springfield,MO,Central Standard Time,6
+STL,STL,St. Louis,MO,Central Standard Time,6
+GPT,GPT,Gulfport,MS,Central Standard Time,6
+GTR,GTR,Columbus,MS,Central Standard Time,6
+JAN,JAN,Jackson,MS,Central Standard Time,6
+MEI,MEI,Meridian,MS,Central Standard Time,6
+PIB,PIB,Moselle,MS,Central Standard Time,6
+UTM,UTM,Tunica,MS,Central Standard Time,6
+BIL,BIL,Billings,MT,Mountain Standard Time,7
+BTM,BTM,Butte,MT,Mountain Standard Time,7
+BZN,BZN,Bozeman,MT,Mountain Standard Time,7
+FCA,FCA,Kalispell,MT,Mountain Standard Time,7
+GTF,GTF,Great Falls,MT,Mountain Standard Time,7
+HLN,HLN,Helena,MT,Mountain Standard Time,7
+MSO,MSO,Missoula,MT,Mountain Standard Time,7
+AVL,AVL,Asheville,NC,Eastern Standard Time,5
+CLT,CLT,Charlotte,NC,Eastern Standard Time,5
+EWN,EWN,New Bern,NC,Eastern Standard Time,5
+FAY,FAY,Fayetteville,NC,Eastern Standard Time,5
+GSO,GSO,Greensboro,NC,Eastern Standard Time,5
+ILM,ILM,Wilmington,NC,Eastern Standard Time,5
+OAJ,OAJ,Jacksonville,NC,Eastern Standard Time,5
+RDU,RDU,Raleigh,NC,Eastern Standard Time,5
+USA,USA,Concord,NC,Eastern Standard Time,5
+BIS,BIS,Bismarck,ND,Central Standard Time,6
+DVL,DVL,Devils Lake,ND,Central Standard Time,6
+FAR,FAR,Fargo,ND,Central Standard Time,6
+GFK,GFK,Grand Forks,ND,Central Standard Time,6
+ISN,ISN,City of Williston,ND,Central Standard Time,6
+JMS,JMS,Jamestown,ND,Central Standard Time,6
+MOT,MOT,Minot,ND,Central Standard Time,6
+BFF,BFF,Scottsbluff,NE,Mountain Standard Time,7
+EAR,EAR,Kearney,NE,Central Standard Time,6
+GRI,GRI,Grand Island,NE,Central Standard Time,6
+LBF,LBF,North Platte,NE,Central Standard Time,6
+LNK,LNK,Lincoln,NE,Central Standard Time,6
+OMA,OMA,Omaha,NE,Central Standard Time,6
+MHT,MHT,Manchester,NH,Eastern Standard Time,5
+PSM,PSM,Portsmouth,NH,Eastern Standard Time,5
+ACY,ACY,Atlantic City,NJ,Eastern Standard Time,5
+EWR,EWR,Newark,NJ,Eastern Standard Time,5
+TTN,TTN,Ewing Township,NJ,Eastern Standard Time,5
+ABQ,ABQ,Albuquerque,NM,Mountain Standard Time,7
+HOB,HOB,Hobbs,NM,Mountain Standard Time,7
+ROW,ROW,Roswell,NM,Mountain Standard Time,7
+SAF,SAF,Santa Fe,NM,Mountain Standard Time,7
+SPN,SPN,Saipan,Northern Mariana Islands,Chamorro Standard Time,10
+EKO,EKO,Elko,NV,Pacific Standard Time,8
+LAS,LAS,Las Vegas,NV,Pacific Standard Time,8
+RNO,RNO,Reno,NV,Pacific Standard Time,8
+ALB,ALB,Albany,NY,Eastern Standard Time,5
+ART,ART,Hounsfield,NY,Eastern Standard Time,5
+BGM,BGM,Binghamton,NY,Eastern Standard Time,5
+BUF,BUF,Buffalo,NY,Eastern Standard Time,5
+ELM,ELM,Elmira,NY,Eastern Standard Time,5
+HPN,HPN,White Plains,NY,Eastern Standard Time,5
+IAG,IAG,Niagara Falls,NY,Eastern Standard Time,5
+ISP,ISP,Islip,NY,Eastern Standard Time,5
+ITH,ITH,Ithaca,NY,Eastern Standard Time,5
+JFK,JFK,New York,NY,Eastern Standard Time,5
+LGA,LGA,New York,NY,Eastern Standard Time,5
+OGS,OGS,Ogdensburg,NY,Eastern Standard Time,5
+PBG,PBG,Plattsburgh,NY,Eastern Standard Time,5
+ROC,ROC,Rochester,NY,Eastern Standard Time,5
+SWF,SWF,Newburgh,NY,Eastern Standard Time,5
+SYR,SYR,Syracuse,NY,Eastern Standard Time,5
+HNL,HNL,Honolulu,"Oahu, HI",Hawaii-Aleutian Standard Time,10
+CAK,CAK,Akron,OH,Eastern Standard Time,5
+CLE,CLE,Cleveland,OH,Eastern Standard Time,5
+CMH,CMH,Columbus,OH,Eastern Standard Time,5
+CVG,CVG,Cincinnati,OH,Eastern Standard Time,5
+DAY,DAY,Dayton,OH,Eastern Standard Time,5
+LCK,LCK,Columbus,OH,Eastern Standard Time,5
+TOL,TOL,Toledo,OH,Eastern Standard Time,5
+LAW,LAW,Lawton,OK,Central Standard Time,6
+OKC,OKC,Oklahoma City,OK,Central Standard Time,6
+SWO,SWO,Stillwater,OK,Central Standard Time,6
+TUL,TUL,Tulsa,OK,Central Standard Time,6
+EUG,EUG,Eugene,OR,Pacific Standard Time,8
+LMT,LMT,Klamath Falls,OR,Pacific Standard Time,8
+MFR,MFR,Medford,OR,Pacific Standard Time,8
+OTH,OTH,North Bend,OR,Pacific Standard Time,8
+PDX,PDX,Portland,OR,Pacific Standard Time,8
+RDM,RDM,Redmond,OR,Pacific Standard Time,8
+ABE,ABE,Allentown,PA,Eastern Standard Time,5
+AVP,AVP,Wilkes-Barre,PA,Eastern Standard Time,5
+ERI,ERI,Erie,PA,Eastern Standard Time,5
+LBE,LBE,Latrobe,PA,Eastern Standard Time,5
+MDT,MDT,Harrisburg,PA,Eastern Standard Time,5
+PHL,PHL,Philadelphia,PA,Eastern Standard Time,5
+PIT,PIT,Pittsburgh,PA,Eastern Standard Time,5
+SCE,SCE,State College,PA,Eastern Standard Time,5
+BQN,BQN,Aguadilla,Puerto Rico,Atlantic Standard Time,4
+PSE,PSE,Ponce,Puerto Rico,Atlantic Standard Time,4
+SJU,SJU,San Juan,Puerto Rico,Atlantic Standard Time,4
+PVD,PVD,Providence,RI,Eastern Standard Time,5
+CAE,CAE,Columbia,SC,Eastern Standard Time,5
+CHS,CHS,Charleston,SC,Eastern Standard Time,5
+FLO,FLO,Florence,SC,Eastern Standard Time,5
+GSP,GSP,Greenville,SC,Eastern Standard Time,5
+HHH,HHH,Hilton Head Island,SC,Eastern Standard Time,5
+MYR,MYR,Myrtle Beach,SC,Eastern Standard Time,5
+ABR,ABR,Aberdeen,SD,Central Standard Time,6
+FSD,FSD,Sioux Falls,SD,Central Standard Time,6
+RAP,RAP,Rapid City,SD,Mountain Standard Time,7
+STX,STX,Christiansted,St. Croix,Atlantic Standard Time,4
+STT,STT,Charlotte Amalie,St. Thomas,Atlantic Standard Time,4
+BNA,BNA,Nashville,TN,Central Standard Time,6
+CHA,CHA,Chattanooga,TN,Eastern Standard Time,5
+MEM,MEM,Memphis,TN,Central Standard Time,6
+TRI,TRI,Tri-City Airport,TN,Eastern Standard Time,5
+TYS,TYS,Knoxville,TN,Eastern Standard Time,5
+ABI,ABI,Abilene,TX,Central Standard Time,6
+ACT,ACT,Waco,TX,Central Standard Time,6
+AMA,AMA,Amarillo,TX,Central Standard Time,6
+AUS,AUS,Austin,TX,Central Standard Time,6
+BPT,BPT,Beaumont,TX,Central Standard Time,6
+BRO,BRO,Brownsville,TX,Central Standard Time,6
+CLL,CLL,College Station,TX,Central Standard Time,6
+CRP,CRP,Corpus Christi,TX,Central Standard Time,6
+DAL,DAL,Dallas,TX,Central Standard Time,6
+DFW,DFW,Dallas,TX,Central Standard Time,6
+DRT,DRT,Del Rio,TX,Central Standard Time,6
+ELP,ELP,El Paso,TX,Mountain Standard Time,7
+GGG,GGG,Longview,TX,Central Standard Time,6
+GRK,GRK,Killeen,TX,Central Standard Time,6
+HOU,HOU,Houston,TX,Central Standard Time,6
+HRL,HRL,Harlingen,TX,Central Standard Time,6
+IAH,IAH,Houston,TX,Central Standard Time,6
+LBB,LBB,Lubbock,TX,Central Standard Time,6
+LRD,LRD,Laredo,TX,Central Standard Time,6
+MAF,MAF,Midland,TX,Central Standard Time,6
+MFE,MFE,McAllen,TX,Central Standard Time,6
+SAT,SAT,San Antonio,TX,Central Standard Time,6
+SJT,SJT,San Angelo,TX,Central Standard Time,6
+SPS,SPS,Wichita Falls,TX,Central Standard Time,6
+TYR,TYR,Tyler,TX,Central Standard Time,6
+CDC,CDC,Cedar City,UT,Mountain Standard Time,7
+CNY,CNY,Moab,UT,Mountain Standard Time,7
+OGD,OGD,Ogden,UT,Mountain Standard Time,7
+PVU,PVU,Provo,UT,Mountain Standard Time,7
+SGU,SGU,St. George,UT,Mountain Standard Time,7
+SLC,SLC,Salt Lake City,UT,Mountain Standard Time,7
+VEL,VEL,Vernal,UT,Mountain Standard Time,7
+CHO,CHO,Charlottesville,VA,Eastern Standard Time,5
+LYH,LYH,Lynchburg,VA,Eastern Standard Time,5
+ORF,ORF,Norfolk,VA,Eastern Standard Time,5
+PHF,PHF,Newport News,VA,Eastern Standard Time,5
+RIC,RIC,Richmond,VA,Eastern Standard Time,5
+ROA,ROA,Roanoke,VA,Eastern Standard Time,5
+SHD,SHD,Weyers Cave,VA,Eastern Standard Time,5
+BTV,BTV,Burlington,VT,Eastern Standard Time,5
+BLI,BLI,Bellingham,WA,Pacific Standard Time,8
+GEG,GEG,Spokane,WA,Pacific Standard Time,8
+PSC,PSC,Pasco,WA,Pacific Standard Time,8
+SEA,SEA,Seattle,WA,Pacific Standard Time,8
+PPG,PPG,Pavaiai,"Western Distric, American Samoa",Samoa Standard Time,13
+ATW,ATW,Appleton,WI,Central Standard Time,6
+CWA,CWA,Wausau,WI,Central Standard Time,6
+EAU,EAU,Eau Claire,WI,Central Standard Time,6
+GRB,GRB,Green Bay,WI,Central Standard Time,6
+LSE,LSE,La Crosse,WI,Central Standard Time,6
+MKE,MKE,Milwaukee,WI,Central Standard Time,6
+MSN,MSN,Madison,WI,Central Standard Time,6
+RHI,RHI,Rhinelander,WI,Central Standard Time,6
+CKB,CKB,Bridgeport,WV,Eastern Standard Time,5
+CRW,CRW,Charleston,WV,Eastern Standard Time,5
+HTS,HTS,Huntington,WV,Eastern Standard Time,5
+LWB,LWB,Greenbrier,WV,Eastern Standard Time,5
+COD,COD,Cody,WY,Mountain Standard Time,7
+CPR,CPR,Casper,WY,Mountain Standard Time,7
+CYS,CYS,Cheyenne,WY,Mountain Standard Time,7
+GCC,GCC,Gillette,WY,Mountain Standard Time,7
+JAC,JAC,Jackson Hole,WY,Mountain Standard Time,7
+LAR,LAR,Laramie,WY,Mountain Standard Time,7
+RKS,RKS,Rock Springs,WY,Mountain Standard Time,7
